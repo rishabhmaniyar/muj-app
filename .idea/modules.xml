@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/5paisa-level-muj.iml" filepath="$PROJECT_DIR$/.idea/5paisa-level-muj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../broker-Shoonya/.idea/broker-Shoonya.iml" filepath="$PROJECT_DIR$/../broker-Shoonya/.idea/broker-Shoonya.iml" />
+    </modules>
+  </component>
+</project>
